@@ -7,9 +7,6 @@ import ca.zhoozhoo.examples.springwicket.ui.pages.HelloWorld;
 
 public class ExampleWebApplication extends WebApplication {
 
-	public ExampleWebApplication() {
-	}
-
 	@Override
 	public Class<? extends Page> getHomePage() {
 		return HelloWorld.class;

@@ -1,0 +1,5 @@
+watchservice:
+  dirPath: files
+  corePoolSize: 5
+  maxPoolSize: 10
+  queueCapacity: 100

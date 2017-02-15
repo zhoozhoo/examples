@@ -23,6 +23,7 @@
 	<modules>
 		<module>spring-mvc-hibernate</module>
 		<module>spring-wicket</module>
+        <module>watchservice</module>
 	</modules>
 
 	<scm>
@@ -52,7 +53,7 @@
 		<ejb-spec-version>3.2</ejb-spec-version>
 
 		<!-- JUnit version -->
-		<junit-version>4.11</junit-version>
+		<junit-version>4.12</junit-version>
 	</properties>
 
 	<dependencyManagement>

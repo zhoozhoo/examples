@@ -21,7 +21,6 @@
 	</developers>
 
 	<modules>
-		<module>spring-mvc-hibernate</module>
 		<module>spring-wicket</module>
         <module>watchservice</module>
 	</modules>

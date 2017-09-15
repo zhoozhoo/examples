@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.1.RELEASE</version>
+        <version>1.5.7.RELEASE</version>
     </parent>
 
     <groupId>ca.zhoozhoo.examples</groupId>
@@ -16,16 +16,16 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>1.8</java.version>
+        <java.version>1.9</java.version>
 
         <!-- dependency versions -->
-        <junit.jupiter.version>5.0.0-M3</junit.jupiter.version>
-        <junit.platform.version>1.0.0-M3</junit.platform.version>
-        <spring-boot.vesion>1.5.2.RELEASE</spring-boot.vesion>
+        <junit.jupiter.version>5.0.0</junit.jupiter.version>
+        <junit.platform.version>1.0.0</junit.platform.version>
+        <spring-boot.vesion>1.5.7.RELEASE</spring-boot.vesion>
 
         <!-- maven plugin versions -->
-        <compiler-plugin.version>3.6.1</compiler-plugin.version>
-        <surefire-plugin.version>2.19.1</surefire-plugin.version>
+        <compiler-plugin.version>3.7.0</compiler-plugin.version>
+        <surefire-plugin.version>2.20</surefire-plugin.version>
     </properties>
 
     <dependencies>
